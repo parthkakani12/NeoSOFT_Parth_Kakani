@@ -1,2 +1,1 @@
-# two_sum
-Python solution for the Two Sum problem using a dictionary
+# NeoSOFT_Parth_kakani
